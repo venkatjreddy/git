@@ -3,3 +3,4 @@ git phages are
 work space
 staging area/index area
 local repository
+using git administration 
